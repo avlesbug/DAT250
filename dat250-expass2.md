@@ -11,3 +11,6 @@ I had quite a few difficulties getting started with this assignment and acctuall
 When the JUint successfully completed these tables where created. I changed the Person class to Person2 because i also had a Person class in the next experiment of the assignment.
 
 #### Experiment 2
+
+Because this is all new to me it took quite some time figuring out the correct mapping notations and placement of them. But after consulting the book and the videos from Lecture 4 on canvas and of course also the internet i think i have come up with viable solution. When my code is executed these are tables get created.
+ ![Database-DAT250](https://user-images.githubusercontent.com/46966246/133004113-af2b34a6-3a42-4eb2-8704-d0c8d05b221e.png)
