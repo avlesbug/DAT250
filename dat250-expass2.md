@@ -5,7 +5,7 @@
 ### Difficulties with Experiment 1
 
 I had quite a few difficulties getting started with this assignment and acctually knowing what i needed to do. There was some confusion because of the tutorial telling us to create a new project when whe had been given some code in addition to talks of libs, classpaths and JARs. 
-The code ran perfectly fine at the first step, but when i created the classes and the JUnit test form step 6 in the tutorial it would not run. I kept getting an error message that lead me to believe i had to do something with classpath and JARs mentioned in the tutorial. I spent an unnesassery high amount of time trying to figure out this before i found out that i just needed to change the line "<persistence-unit name="todos" transaction-type="RESOURCE_LOCAL">" to "<persistence-unit name="people" transaction-type="RESOURCE_LOCAL">" in the persistance.xml.
+The code ran perfectly fine at the first step, but when i created the classes and the JUnit test form step 6 in the tutorial it would not run. I kept getting an error message that lead me to believe i had to do something with classpath and JARs mentioned in the tutorial. I spent an unnesassery high amount of time trying to figure out this before i found out that i just needed to change the line "\<persistence-unit name="todos" transaction-type="RESOURCE_LOCAL">" to "\<persistence-unit name="people" transaction-type="RESOURCE_LOCAL">" in the persistance.xml.
 
 ![image](https://user-images.githubusercontent.com/46966246/133003867-17899841-a591-4823-98fb-9648c8c09cdf.png)
 
