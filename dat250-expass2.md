@@ -20,4 +20,5 @@ Because this is all new to me it took quite some time figuring out the correct m
 Before starting this assignment i did not know about Intellijs Database tools, so at first i just wrote some code in the main class that printed out fields to the console to see if things were working. Thankfully i learned that you could inspect tables and see a visualization of their relationships in the Intellij, so that is what i did to check that the object links were saved correctly in the databas.
  
 I had some issues durring the assignment but anyhting that was not resolved in the end.
+
 Link to my code:
