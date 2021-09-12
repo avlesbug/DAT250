@@ -21,4 +21,4 @@ Before starting this assignment i did not know about Intellijs Database tools, s
  
 I had some issues durring the assignment but anyhting that was not resolved in the end.
 
-Link to my code:
+I have uploded a zip file containing my code to this repository.
