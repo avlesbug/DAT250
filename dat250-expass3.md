@@ -13,14 +13,21 @@ For this assignment i did not encounter any problems for the actual installation
 
 ### Experiment 1: MongoDB CRUD operations
 
+#### Insert
+
 <img width="473" alt="Insertmanny" src="https://user-images.githubusercontent.com/46966246/133268468-396dc8f4-5710-4b11-a7b6-3107f49302c2.png">
+
+#### Query
 
 <img width="312" alt="Find" src="https://user-images.githubusercontent.com/46966246/133268473-4879d515-5ba4-4e97-a160-44b74527e9c5.png">
 
-<img width="243" alt="Delete" src="https://user-images.githubusercontent.com/46966246/133268511-ab15c848-c5e8-41f3-a6d9-237aeb4c81a8.png">
-
+#### Update
 
 <img width="277" alt="UpdateMany" src="https://user-images.githubusercontent.com/46966246/133268521-fe74478d-f459-4c10-b251-d966269c648a.png">
+
+#### Delete
+
+<img width="243" alt="Delete" src="https://user-images.githubusercontent.com/46966246/133268511-ab15c848-c5e8-41f3-a6d9-237aeb4c81a8.png">
 
 
 
@@ -28,7 +35,11 @@ For this assignment i did not encounter any problems for the actual installation
 
 ### Experiment 2: Aggregation
 
+#### Map Reduce
+
 <img width="287" alt="MapReduce" src="https://user-images.githubusercontent.com/46966246/133268551-96f09b07-bd80-4d86-9629-c025a6604d95.png">
+
+#### Additional operation
 
 <img width="356" alt="NewFunction" src="https://user-images.githubusercontent.com/46966246/133268584-d59fd79a-3699-4556-8f59-8762e17305c3.png">
 
