@@ -13,6 +13,8 @@ For this assignment i did not encounter any problems for the actual installation
 
 ### Experiment 1: MongoDB CRUD operations
 
+Going through and testing the CRUD operations when smoothly without any problems.
+
 #### Insert
 
 <img width="473" alt="Insertmanny" src="https://user-images.githubusercontent.com/46966246/133268468-396dc8f4-5710-4b11-a7b6-3107f49302c2.png">
@@ -41,6 +43,11 @@ For this assignment i did not encounter any problems for the actual installation
 
 #### Additional operation
 
+<img width="452" alt="Functions" src="https://user-images.githubusercontent.com/46966246/133269702-7474433c-0d01-4a67-ab7e-d5eae2ae9a97.png">
+
+
 <img width="356" alt="NewFunction" src="https://user-images.githubusercontent.com/46966246/133268584-d59fd79a-3699-4556-8f59-8762e17305c3.png">
+
+This operation takes the list of transactions and returns the dates each person bought something. It could be usefull for statistical purposes, for example when there are most customers. And it could be useful for the customer find out when their last transaction at the store was.
 
 
